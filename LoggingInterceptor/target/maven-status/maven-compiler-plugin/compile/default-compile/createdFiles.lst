@@ -1,0 +1,4 @@
+com\logginginterceptor\example\config\AppConfig.class
+com\logginginterceptor\example\interceptor\LoggingInterceptor.class
+com\logginginterceptor\example\controller\ExampleController.class
+com\logginginterceptor\example\LoggingInterceptorApplication.class
